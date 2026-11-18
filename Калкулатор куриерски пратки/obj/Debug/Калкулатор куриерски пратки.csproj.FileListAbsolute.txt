@@ -1,0 +1,10 @@
+D:\C# 3year\Калкулатор куриерски пратки\bin\Debug\Калкулатор куриерски пратки.exe.config
+D:\C# 3year\Калкулатор куриерски пратки\bin\Debug\Калкулатор куриерски пратки.exe
+D:\C# 3year\Калкулатор куриерски пратки\bin\Debug\Калкулатор куриерски пратки.pdb
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор куриерски пратки.csproj.AssemblyReference.cache
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор_куриерски_пратки.Form1.resources
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор_куриерски_пратки.Properties.Resources.resources
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор куриерски пратки.csproj.GenerateResource.cache
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор куриерски пратки.csproj.CoreCompileInputs.cache
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор куриерски пратки.exe
+D:\C# 3year\Калкулатор куриерски пратки\obj\Debug\Калкулатор куриерски пратки.pdb
